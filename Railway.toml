@@ -1,0 +1,4 @@
+[services.backend]
+path = "back-end"
+build = "mvn package -Dmaven.test.skip=true"
+start = "java -jar target/<your-jar-file>.jar"

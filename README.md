@@ -109,11 +109,8 @@ personal-finance-tracker/
 
 ## Authors
 
-- **Vaidehi** - Full Stack - [GitHub](https://github.com/ihediav-1408)
+- **Vaibhav** - Full Stack - [GitHub]([https://github.com/CoderVaibhav24])
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
